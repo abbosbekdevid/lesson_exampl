@@ -659,7 +659,7 @@ from datetime import datetime, timedelta
 # print(sum(equal))
 
 
-
+# Git hub boshlandi va shu yergacha qo'shildi
 
 
 
